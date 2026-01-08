@@ -1,4 +1,4 @@
-arkdown# 2025 NFL Draft Value Analysis
+Markdown# 2025 NFL Draft Value Analysis
 
 **Status**: In Progress  
 **Expected Completion**: January 19, 2026
