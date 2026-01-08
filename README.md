@@ -6,7 +6,7 @@ Data analytics portfolio showcasing NFL draft analysis, salary cap efficiency, a
 ## About Me
 Data analytics professional building toward a career in NFL front office operations. Currently completing Google Data Analytics certification and BSBA Finance (WGU) with focus on football analytics, scouting, and player personnel evaluation.
 
-**Career Goal**: NFL Player Personnel Analyst → Director of Player Personnel by 2035
+**Career Goal**: NFL Player Personnel Analyst → Director of Player Personnel by 2038
 
 ## Technical Skills
 - **Data Analysis**: SQL, Excel, Google Sheets, Power BI (in progress)
